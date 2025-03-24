@@ -34,7 +34,7 @@ export default function ClosedCases() {
     <div>
 
       <div className="w-fit p-2 bg-[#333436] rounded-lg ml-1 mt-4 text-white text-center">
-        Closed Cases
+        Resolved Cases
       </div>
 
       {/* Complaints List */}
